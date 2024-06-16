@@ -1,0 +1,16 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Obsidian gruvbox",
+  "interfaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "textFontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "Colored Sidebar",
+    "General Tweaks",
+    "Daily Notes",
+    "Notebook Backgrounds"
+  ]
+}

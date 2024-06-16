@@ -1,0 +1,13 @@
+{
+  "full-list-lane-width": false,
+  "move-tags": true,
+  "tag-action": "kanban",
+  "move-dates": true,
+  "show-relative-date": true,
+  "archive-with-date": true,
+  "date-format": "YYYY-MM-DD",
+  "time-format": "HH:mm:ss",
+  "date-display-format": "YYYY-MM-DD",
+  "archive-date-format": "YYYY-MM-DDTHH:mm",
+  "date-picker-week-start": 1
+}

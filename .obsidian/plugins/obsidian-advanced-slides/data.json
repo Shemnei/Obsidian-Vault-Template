@@ -1,0 +1,21 @@
+{
+  "port": "9123",
+  "autoReload": true,
+  "exportDirectory": "95-Outbox",
+  "enableChalkboard": true,
+  "enableOverview": true,
+  "enableMenu": true,
+  "enablePointer": true,
+  "enableTimeBar": true,
+  "theme": "black",
+  "highlightTheme": "zenburn",
+  "transition": "slide",
+  "transitionSpeed": "default",
+  "controls": true,
+  "progress": true,
+  "slideNumber": false,
+  "showGrid": false,
+  "autoComplete": "inPreview",
+  "paneMode": "split",
+  "motm": ""
+}

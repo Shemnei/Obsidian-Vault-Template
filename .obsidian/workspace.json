@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "d05c88e63ff80366",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ba93df4c37d99ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78eb9cfb9ee48a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-Meta/00-Templates/Templater/(TEMPLATE) Person.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "197c288e661a07e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cc9587f9a7b60df",
+        "type": "tabs",
+        "dimension": 63.76080691642652,
+        "children": [
+          {
+            "id": "44a0ba58c9de4847",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "905ea1946c02de57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f7d45c0ad76e553",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e5df726778650284",
+        "type": "tabs",
+        "dimension": 36.23919308357348,
+        "children": [
+          {
+            "id": "189aabec9b717681",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5
+  },
+  "right": {
+    "id": "46f432a6fce1b6f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "145d1da427c1a25c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a798bc075f9c734c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99-Meta/00-Templates/Templater/(TEMPLATE) Person.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79e2f92c40138616",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99-Meta/00-Templates/Templater/(TEMPLATE) Person.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "411f225c456b58c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a660d3d545aa151d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99-Meta/00-Templates/Templater/(TEMPLATE) Person.md"
+              }
+            }
+          },
+          {
+            "id": "9676a745f721584e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "ca5ca5e95f0e384f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": true,
+      "templater-obsidian:Templater": true,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": true,
+      "obsidian-projects:Open projects": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "canvas:Create new canvas": false,
+      "darlal-switcher-plus:Open in Headings Mode": true,
+      "darlal-switcher-plus:Open Symbols for the active editor": true
+    }
+  },
+  "active": "78eb9cfb9ee48a07",
+  "lastOpenFiles": [
+    "02-Projects/SBC Portal/2024-06-16 Hello World.md",
+    "02-Projects/SBC Portal/OTA Updates/2024-06-16 AWS Jobs.md",
+    "02-Projects/SBC Portal/@SBC Portal.md",
+    "02-Projects/SBC Portal/OTA Updates/@OTA Updates.md",
+    "02-Projects/SBC Portal/00-111.md",
+    "99-Meta/00-Templates/Templater/(TEMPLATE) Subproject.md",
+    "02-Projects/SBC Portal/OTA Updates",
+    "99-Meta/00-Templates/Templater/(TEMPLATE) Project File.md",
+    "99-Meta/00-Templates/Templater/(TEMPLATE) Project.md",
+    "02-Projects/SBC Portal",
+    "02-Projects/SBC Portal/OTA Updates/2024-06-16 asdf.md",
+    "02-Projects/SBC Portal/20240616214141asdf.md",
+    "02-Projects/jashdf/123.md",
+    "99-Meta/00-Templates/Templater/(TEMPLATE) Person.md",
+    "02-Projects/jashdf/00-aaasdf.md",
+    "02-Projects/jashdf/# -jashdf.md",
+    "02-Projects/jashdf",
+    "02-Projects/SBC Portal/OTA Updates/AWS Jobs.md",
+    "02-Projects/SBC Portal/OTA Updates/OTA Updates.md",
+    "02-Projects/SBC Portal/SBC Portal.md",
+    "Readme.md",
+    "03-People/asdfasdf.md",
+    "02-Projects/SBC Portal/lllll.md",
+    "02-Projects/SBC Portal/OTA Updates/haskdhfkasd.md",
+    "02-Projects/SBC Portal/OTA Updates/kkkkk.md",
+    "02-Projects/SBC Portal/Heasdf.md",
+    "02-Projects/SBC Portal/OTA Updates/Hello World.md",
+    "02-Projects/SBC Portal/77.md",
+    "02-Projects/SBC Portal/OTA Updates/asdfsadf.md",
+    "03-People/Sysadmin",
+    "02-Projects/SBC Portal/Asdf",
+    "01-Daily/2024/06/16",
+    "01-Daily/2024/06",
+    "01-Daily/2024",
+    "99-Meta/01-Scripts/Excalidraw",
+    "99-Meta/01-Scripts"
+  ]
+}
