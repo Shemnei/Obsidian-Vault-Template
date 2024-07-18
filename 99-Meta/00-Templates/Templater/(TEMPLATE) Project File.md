@@ -31,8 +31,4 @@ cssclasses:
   - project-file
 ---
 
-# <% subProjectName ? subProjectName : projectName %> - <% fileName %>
-
----
-
 <% tp.file.cursor() %>

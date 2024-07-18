@@ -24,10 +24,6 @@ cssclasses:
   - subproject
 ---
 
-# <% projectName %> - <% subProjectName %>
-
----
-
 ## Files
 
 ```dataview

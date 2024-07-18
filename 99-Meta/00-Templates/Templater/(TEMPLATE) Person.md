@@ -21,10 +21,6 @@ person:
 	group: <% personGroup %>
 ---
 
-# <% personName %>
-
----
-
 ## Notes
 
 - <% tp.file.cursor() %>

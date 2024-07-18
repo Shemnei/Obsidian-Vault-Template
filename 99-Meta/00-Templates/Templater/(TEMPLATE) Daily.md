@@ -8,10 +8,6 @@ cssclasses:
   <% "- " + tp.date.now("dddd").toLowerCase() %>
 ---
 
-# <% tp.date.now("dddd, MMMM Do, YYYY") %>
-
----
-
 ## Tasks
 
 ## Notes

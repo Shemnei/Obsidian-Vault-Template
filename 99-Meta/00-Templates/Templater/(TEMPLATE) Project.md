@@ -14,10 +14,6 @@ cssclasses:
   - project
 ---
 
-# <% projectName %>
-
----
-
 ```dataview
 CALENDAR file.ctime
 FROM #<% projectTag %>
@@ -35,7 +31,9 @@ FROM #<% projectTag %>
 ```dataview
 TASK
 FROM #<% projectTag %> 
+WHERE status = " " or status = "/"
 GROUP BY file.link
+SORT rows.file.ctime DESC
 ```
 
 ## Notes

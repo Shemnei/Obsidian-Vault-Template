@@ -66,6 +66,7 @@ personNameFirst
 personNameLast
 personRole
 projectNam
+personGroup
 Layout
 Lohr
 unsorted
@@ -172,6 +173,7 @@ grp
 getTags
 getMarkdownFiles
 getAllLoadedFiles
+group
 GROUP
 link
 length
